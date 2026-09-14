@@ -11,7 +11,6 @@ export default defineConfig(({ command }) => {
     },
 
     root: 'src',
-    base: './',
     build: {
       sourcemap: true,
       rollupOptions: {
