@@ -4,8 +4,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "build": "vite build --base=/goit-js-hw-09/",
     "dev": "vite",
-    "build": "--base=/goit-js-hw-09/",
     "preview": "vite preview"
   },
   "devDependencies": {
